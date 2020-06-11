@@ -1,5 +1,5 @@
 
-[center] ![logo](https://raw.githubusercontent.com/SenaBel/nlw-ecoleta-rocketseat/41c16a82c2219a3fe3579cf805a0f2bd7a0254d3/front-end/public/icones/logo.svg) [/center]
+![logo](https://raw.githubusercontent.com/SenaBel/nlw-ecoleta-rocketseat/41c16a82c2219a3fe3579cf805a0f2bd7a0254d3/front-end/public/icones/logo.svg) 
 
 </br>
 
