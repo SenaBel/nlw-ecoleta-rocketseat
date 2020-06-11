@@ -1,4 +1,11 @@
+
+![logo](https://raw.githubusercontent.com/SenaBel/nlw-ecoleta-rocketseat/41c16a82c2219a3fe3579cf805a0f2bd7a0254d3/front-end/public/icones/logo.svg)
+
+</br>
+</br>
+
 # ECOLETA-NLW
+
 ## NEXT LEVEL WEEK - PROJECT-ECOLETA
 ### Projeto desenvolvido durante a semana NEXT LEVEL WEEK  da ROCKETSEAT
 
@@ -20,14 +27,17 @@ Um evento online e totalmente gratuito que vai te ajudar a dar o próximo passo
  - nunjucks
  - sqlite3
  - nodemon
+
+ ## Para instalar esse projeto em sua máquina segue os seguintes passos:
+ - git clone no repositório
+ - cd front-end
+ - npm install
+ - npm start
  
  </br>
  </br>
  </br>
  </br>
-
-![logo](https://raw.githubusercontent.com/SenaBel/nlw-ecoleta-rocketseat/41c16a82c2219a3fe3579cf805a0f2bd7a0254d3/front-end/public/icones/logo.svg)
-
 
 # Seu marketplace de coleta de resíduos
 ## Ajudamos a encontrarem pontos de coleta de forma eficiente
@@ -40,7 +50,7 @@ Um evento online e totalmente gratuito que vai te ajudar a dar o próximo passo
 </br>
 ![2020-06-11 (15)](https://raw.githubusercontent.com/SenaBel/nlw-ecoleta-rocketseat/master/front-end/images-git/home-responsivo.png)
 </br>
-</br>png
+</br>
 ![2020-06-07 (7)](https://raw.githubusercontent.com/SenaBel/nlw-ecoleta-rocketseat/master/front-end/images-git/cadastro.png)
 </br>
 </br>
