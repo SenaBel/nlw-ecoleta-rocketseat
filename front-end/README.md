@@ -26,7 +26,7 @@ Um evento online e totalmente gratuito que vai te ajudar a dar o próximo passo
  </br>
  </br>
 
-![logo](https://raw.githubusercontent.com/eltoncampos1/ECOLE-NLW/30b605219b584aa756a01003fcdb7041579fff02/public/icones/logo.svg)
+![logo](https://raw.githubusercontent.com/SenaBel/nlw-ecoleta-rocketseat/41c16a82c2219a3fe3579cf805a0f2bd7a0254d3/front-end/public/icones/logo.svg)
 
 
 # Seu marketplace de coleta de resíduos
